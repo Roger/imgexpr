@@ -1,0 +1,21 @@
+{
+  "name": "imgexpr",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "http://fsck.com.ar/imgexpr/",
+  "devDependencies": {
+    "react-scripts": "0.8.5"
+  },
+  "dependencies": {
+    "js-base64": "^2.1.9",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "react-dropzone": "^3.8.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

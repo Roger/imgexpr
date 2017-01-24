@@ -1,0 +1,33 @@
+canvas {
+  width: 100%;
+  image-rendering: auto;
+
+}
+
+.drop {
+  border: 4px dashed gray;
+}
+
+input {
+  width: 100%;
+}
+
+.App {
+  text-align: center;
+  background-color: #222;
+}
+
+.App-header {
+  padding: 10px;
+  color: white;
+}
+
+.App_main {
+  width: 100%;
+  height: 100%;
+}
+
+.error {
+  color: red;
+  font-size: 10px;
+}
